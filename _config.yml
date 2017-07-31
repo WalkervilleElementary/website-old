@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Magic School Blog
 email: your-email@example.com
-description: > # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   The website for The Magic School Bot, our entry in the Annual UBC Engineering Physics Summer Robotics Competition
   #It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
@@ -29,6 +29,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  -scope:
+    path: "assets/img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

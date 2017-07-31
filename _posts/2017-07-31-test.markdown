@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Status Update"
+date:   2017-07-31 12:05:35 -0700
+categories: robot, final push
+---
+It's T-minus 7 workdays!
+
+Luckily, things seem to be coming along well.
+Here's some video of our 'bot in action!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4lRfWi_3Ik" frameborder="0" allowfullscreen> </iframe>
