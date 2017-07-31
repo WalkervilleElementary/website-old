@@ -5,4 +5,6 @@ permalink: /software/
 ---
 
 software stuff goes here
--mention the digital IR filtering
+- digital IR filtering
+- state machine
+- add diagram
